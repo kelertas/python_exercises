@@ -1,0 +1,20 @@
+python is a programming language 1
+c++ is a programming language 2
+java is a programming language 3
+php and python are programming languages 4
+c++ and java are programming languages 5
+c++ and java are programming languages 6
+c++ and java are programming languages 7
+php and python are programming languages 8
+php and python are programming languages 9
+php and python are programming languages 10
+c++ is a programming language 11
+c++ is a programming language 12
+python is a programming language 13
+python is a programming language 14
+python is a programming language 15
+java is a programming language 16
+java is a programming language 17
+java is a programming language 18
+php and python are programming languages 19
+php and python are programming languages 20
